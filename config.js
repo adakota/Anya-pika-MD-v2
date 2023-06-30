@@ -22,9 +22,9 @@ global.lApiKey = {// if this API key get expired then please go to https://api.l
 }
 
 
-global.botname = "Queen Anya" 
-global.author = "Enter Author Name Here"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
+global.botname = "nore_freezer" 
+global.author = "luffy_zeno"  
+global.packname = "nore_freezer"  
 global.myweb = "Enter Your Any Website Profile Link Here"
 global.footer = "©\t" + "Enter Your Watermark Here"
 global.prefa = ['-'] // single prefix
@@ -33,22 +33,22 @@ global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
 
 
-global.ownername = "Enter Owner Name Here"    
-global.ownernumber = ["918811074852"]
-global.ytname = "YT: Enter Your Channel Name Here"
-global.continent = "Asia" // your continent name 
-global.region = "Enter Your Country Name Here"
-global.state = "Enter Your State Name Here" // your state name
-global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
+global.ownername = "nore_freezer"    
+global.ownernumber = ["91532394"]
+global.ytname = "YT: "la voix de l'islam tiktok"
+global.continent = "Afrique" // your continent name 
+global.region = "lomé_bè"
+global.state = "togo_niger" // your state name
+global.timezone = "Afrique/Lomé" // search on google if you don't know the timezone of your country //
 global.instagramId = "Enter Your Insta ID Here"
 global.email = "Enter Your Email ID Here"
 
 
 // Greeting messages
-global.greet1 = "Good morning ☀️" // after 3 AM
-global.greet2 = "Good afternoon 🏜️" // after 12 PM
-global.greet3 = "Good evening 🌆" // after 4 PM
-global.greet4 = "Good night 😴" // after 8:30 PM
+global.greet1 = "bonjour ☀️" // after 3 AM
+global.greet2 = "bon après midi 🏜️" // after 12 PM
+global.greet3 = "bonsoir🌆" // after 4 PM
+global.greet4 = "bonne nuit 😴" // after 8:30 PM
 
 
 //--------------- Tip ----------------\\
@@ -66,9 +66,9 @@ global.mess = {
     success: 'Done ✅',
     admin: 'You must be an admin to use this command.',
     botAdmin: 'The bot needs to be an admin to process this command.',
-    owner: 'You are not the owner of this bot so you cannot use this command.',
-    group: 'This command is only made for group chats.',
-    private: 'This command is only for private chats.',
+    owner: 'baka tu n'es pas le créateur de cette bot c'est nore_freezer.',
+    group: 'cette commande ne marche que dans les groupes de discussion 💭.',
+    private: 'Tes con ou koi cette commande est réservé rien qu'à moi.',
     wait: '```「▰▰▰▱▱▱▱▱▱▱」Loading...```',
     link: 'I need a link to process this command.',
     error: '```404 Error```',
