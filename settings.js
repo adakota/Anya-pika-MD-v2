@@ -12,7 +12,7 @@ global.botscript = 'https://github.com/PikaBotz/Anya-pika-MD-v2' // Script link 
 global.packname = "𓅓𝖓𝖔𝖗𝖊︀︀︀︀ ᠻ᥅ꫀꫀꫀɀꫀ᥅𓅓" // sticker watermark packname //
 global.author = "🥵3.69_ρỉƙꪖ" // sticker watermark author //
 actiontitle = '࿙⚜𝑨𝒏𝒚𝒂⚜࿚' // text who displays on the top of welcome and left message //
-global.headerText = "Anya by Pika" // text for header of menu //        
+global.headerText = "nore_freezer" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
              global.ownernumber = ['+22891532394']   // Owner number //
